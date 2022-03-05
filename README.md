@@ -3,6 +3,10 @@
 ## Summary
 The Apollo Server was used to develop a Graql API using the Google Books API. The MERN stack is used to build the app. Users may create an account, search for books they like, and store them to a list of saved books. Users can also delete saved books.
 
+### Visuals:
+![Screenshot](hw21-screenshot.PNG)
+![Screenshot](hw21-1-screenshot.PNG)
+
 ## Tools Used
 * <img src="https://img.shields.io/badge/ApolloServer-yellow" />
     <img src="https://img.shields.io/badge/Graphql-orange" />
